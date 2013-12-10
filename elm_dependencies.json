@@ -1,0 +1,10 @@
+{ "version": "0.0"
+, "elm-version": "0.1"
+, "summary": "I hack everything!"
+, "description": "EVIL! (Don't mind me, I'm just pentesting..."
+, "license": "BSD3"
+, "repository": "https://github.com/timthelion/elm-get-hacker.git"
+, "exposed-modules":
+    [ "Hacker"
+    ]
+}
